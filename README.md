@@ -1,1 +1,1 @@
-# Blog-System-in-Laravel
+# footbal news magazine
